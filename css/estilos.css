@@ -1,0 +1,10 @@
+.fondo{
+    background: 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjh4OTJwMTRmcnYwNW1jNHMxMHpmbm1hbnpvcHptNXRoZjVwejYyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rGXuubWPEQrwnHQnzK/giphy.gif';
+    background-image: url('https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjh4OTJwMTRmcnYwNW1jNHMxMHpmbm1hbnpvcHptNXRoZjVwejYyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rGXuubWPEQrwnHQnzK/giphy.gif');
+    background-position: 20px 30px;
+    background-position: center center;
+}
+
+body{
+    background: 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjh4OTJwMTRmcnYwNW1jNHMxMHpmbm1hbnpvcHptNXRoZjVwejYyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rGXuubWPEQrwnHQnzK/giphy.gif';
+}
